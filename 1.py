@@ -2,6 +2,4 @@ a = 1
 b = 2
 
 c = b
-d = 4
-e = 5
-f = 6
+#I went back to change 1.
